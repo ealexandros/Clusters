@@ -40,7 +40,7 @@ example = Cluster(Your_Array, The_Number_Of_Clusters)
 
 example.clusterKMeans() ..
 
-#You can even plot it 
+#You can even plot the data that you got
 
 example.plot()
 
