@@ -32,6 +32,17 @@ This are the steps that it does:
 
 4)Repeat steps 1, 2 and 3 until the desired number of clusters is reached.
 
+`
+
+There is also a python file that cointeins those two clusters an object oriented way you just need to type
+
+example = Cluster(Your_Array, The_Number_Of_Clusters)
+example.clusterKMeans() ..
+
+#You can even plot it 
+example.plot()
+
+`
 
 -->Some links that might be useful:
 
