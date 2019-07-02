@@ -37,6 +37,7 @@ This are the steps that it does:
 There is also a python file that cointeins those two clusters an object oriented way you just need to type
 
 example = Cluster(Your_Array, The_Number_Of_Clusters)
+
 example.clusterKMeans() ..
 
 #You can even plot it 
