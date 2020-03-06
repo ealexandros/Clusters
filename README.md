@@ -4,7 +4,7 @@ In this repository so far there are two clusters. The first one is the **K-Means
 **Bisecting K-Means Cluster**.
 
 *Clusters or clustering is the task of grouping a set of objects in such a way that objects in the same group (called a cluster) 
-*are more similar (in some sense) to each other than to those in other groups (clusters)
+are more similar (in some sense) to each other than to those in other groups (clusters)*
 
 ## K-Means Cluster
 
